@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-26T23:10:56 IST" name="TSRTC" finished-at="2022-10-26T23:11:02 IST" duration-ms="6276">
+    <groups>
+      <group name="smoke">
+        <method signature="LoginModule1Test.Succesfullogin()[pri:0, instance:mavenexecution.LoginModule1Test@56dc1551]" name="Succesfullogin" class="mavenexecution.LoginModule1Test"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2022-10-26T23:10:56 IST" name="Test" finished-at="2022-10-26T23:11:02 IST" duration-ms="6276">
+      <class name="mavenexecution.LoginModule1Test">
+        <test-method is-config="true" signature="initisations()[pri:0, instance:mavenexecution.LoginModule1Test@56dc1551]" started-at="2022-10-26T23:10:56 IST" name="initisations" finished-at="2022-10-26T23:11:00 IST" duration-ms="3650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initisations -->
+        <test-method signature="Succesfullogin()[pri:0, instance:mavenexecution.LoginModule1Test@56dc1551]" started-at="2022-10-26T23:11:00 IST" name="Succesfullogin" finished-at="2022-10-26T23:11:01 IST" duration-ms="1209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Succesfullogin -->
+        <test-method signature="forgetpassword()[pri:0, instance:mavenexecution.LoginModule1Test@56dc1551]" started-at="2022-10-26T23:11:01 IST" name="forgetpassword" finished-at="2022-10-26T23:11:02 IST" duration-ms="1399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgetpassword -->
+      </class> <!-- mavenexecution.LoginModule1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- TSRTC -->
+</testng-results>

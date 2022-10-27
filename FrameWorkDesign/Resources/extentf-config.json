@@ -1,0 +1,14 @@
+
+{
+  "theme": "STANDARD",
+  "encoding": "utf-8",
+  "protocol": "HTTPS",
+  "timelineEnabled": false,
+  "offlineMode": true,
+  "thumbnailForBase64": false,
+  "documentTitle": "ExtentReports",
+  "reportName": "Tsrtc automation Report",
+  "timeStampFormat": "MMM dd, yyyy HH:mm:ss a",
+  "js": "",
+  "css": "badge-success{background-color:#19af24;}"
+}

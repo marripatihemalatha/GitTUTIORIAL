@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-26T23:06:17 IST" name="TSRTC" finished-at="2022-10-26T23:06:35 IST" duration-ms="17353">
+    <groups>
+    </groups>
+    <test started-at="2022-10-26T23:06:17 IST" name="Test" finished-at="2022-10-26T23:06:35 IST" duration-ms="17353">
+      <class name="mavenexecution.RegistrationModuleTest">
+        <test-method is-config="true" signature="BrowserInitilisation()[pri:0, instance:mavenexecution.RegistrationModuleTest@9ef8eb7]" started-at="2022-10-26T23:06:20 IST" name="BrowserInitilisation" finished-at="2022-10-26T23:06:23 IST" duration-ms="2311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserInitilisation -->
+        <test-method signature="validateloginNameField()[pri:0, instance:mavenexecution.RegistrationModuleTest@9ef8eb7]" started-at="2022-10-26T23:06:23 IST" name="validateloginNameField" finished-at="2022-10-26T23:06:24 IST" duration-ms="1231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateloginNameField -->
+      </class> <!-- mavenexecution.RegistrationModuleTest -->
+      <class name="mavenexecution.REGESTRATIONMODULETEST">
+        <test-method is-config="true" signature="BrowserInitisations()[pri:0, instance:mavenexecution.REGESTRATIONMODULETEST@22ffa91a]" started-at="2022-10-26T23:06:17 IST" name="BrowserInitisations" finished-at="2022-10-26T23:06:20 IST" duration-ms="3149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserInitisations -->
+        <test-method signature="ValidateLoginNameField1()[pri:0, instance:mavenexecution.REGESTRATIONMODULETEST@22ffa91a]" started-at="2022-10-26T23:06:24 IST" name="ValidateLoginNameField1" finished-at="2022-10-26T23:06:27 IST" duration-ms="3377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLoginNameField1 -->
+        <test-method signature="ValidateLoginNameField2()[pri:0, instance:mavenexecution.REGESTRATIONMODULETEST@22ffa91a]" started-at="2022-10-26T23:06:27 IST" name="ValidateLoginNameField2" finished-at="2022-10-26T23:06:30 IST" duration-ms="2654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLoginNameField2 -->
+        <test-method signature="ValidateLoginNameField3()[pri:0, instance:mavenexecution.REGESTRATIONMODULETEST@22ffa91a]" started-at="2022-10-26T23:06:30 IST" name="ValidateLoginNameField3" finished-at="2022-10-26T23:06:32 IST" duration-ms="2255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLoginNameField3 -->
+        <test-method signature="ValidateLoginNameField4()[pri:0, instance:mavenexecution.REGESTRATIONMODULETEST@22ffa91a]" started-at="2022-10-26T23:06:32 IST" name="ValidateLoginNameField4" finished-at="2022-10-26T23:06:35 IST" duration-ms="2321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLoginNameField4 -->
+      </class> <!-- mavenexecution.REGESTRATIONMODULETEST -->
+    </test> <!-- Test -->
+  </suite> <!-- TSRTC -->
+</testng-results>

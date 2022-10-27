@@ -1,0 +1,7 @@
+base\initilastion.class
+objectRepository\HomePageModule.class
+mavenexecution\CommonMethods.class
+mavenexecution\Reportingclas.class
+objectRepository\LoginpageModule.class
+objectRepository\RegestrationPageModule.class
+mavenexecution\App.class
