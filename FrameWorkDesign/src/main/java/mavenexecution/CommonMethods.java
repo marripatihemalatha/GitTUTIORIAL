@@ -21,7 +21,8 @@ public static ArrayList<String> GetExcelData(String Tcname) throws IOException	{
 		ArrayList<String> al= new ArrayList();
 		   
 	//"C:\Users\marri\OneDrive\Desktop\AUTOMATION_TESTING\Book22.xlsx";
-		
+		 
+		//getting test data from excel
 		String Testdatapath= System.getProperty("user.dir")+"\\Resources\\Book22.xlsx";
 		
 	    FileInputStream fis =new FileInputStream(Testdatapath);
