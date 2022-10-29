@@ -23,14 +23,11 @@ public class initilastion {
 	
 	public  Properties proper ;
 	 
-	
-	public WebDriver BrowserInitialisation() throws IOException 
+		public WebDriver BrowserInitialisation() throws IOException 
 	{
-
+       
 		proper = new Properties();
-		
 		String properpath =System.getProperty("user.dir")+"\\Resources\\configures.properties";
-		
 		FileInputStream fis =  new FileInputStream(properpath);
 		proper.load(fis);
 		
